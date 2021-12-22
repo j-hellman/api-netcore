@@ -1,0 +1,9 @@
+C:\Users\jaime\OneDrive\Área de Trabalho\IT\.net\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\jaime\OneDrive\Área de Trabalho\IT\.net\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\jaime\OneDrive\Área de Trabalho\IT\.net\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\jaime\OneDrive\Área de Trabalho\IT\.net\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\jaime\OneDrive\Área de Trabalho\IT\.net\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\jaime\OneDrive\Área de Trabalho\IT\.net\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\jaime\OneDrive\Área de Trabalho\IT\.net\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\jaime\OneDrive\Área de Trabalho\IT\.net\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\jaime\OneDrive\Área de Trabalho\IT\.net\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
