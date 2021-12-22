@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jaime\\OneDrive\\Área de Trabalho\\IT\\.net\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
+      "projectUniqueName": "C:\\Users\\jaime\\Desktop\\IT\\.net\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
       "projectName": "CrossCutting",
-      "projectPath": "C:\\Users\\jaime\\OneDrive\\Área de Trabalho\\IT\\.net\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
+      "projectPath": "C:\\Users\\jaime\\Desktop\\IT\\.net\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
       "packagesPath": "C:\\Users\\jaime\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jaime\\OneDrive\\Área de Trabalho\\IT\\.net\\curso_api_netcore\\src\\Api.CrossCutting\\obj\\",
+      "outputPath": "C:\\Users\\jaime\\Desktop\\IT\\.net\\curso_api_netcore\\src\\Api.CrossCutting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jaime\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,7 +27,8 @@
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O2Fn0sEhosvqLUeiKr12nB0eSMv8Iqfm3KT6he+ZLy9HBBEWOv1WQSuctWmMYFNdtynZHFl8XxRL4uQBUYPqDg==",
+  "dgSpecHash": "ivTOMhyA0yZ2LmBdFJT8dUm56aeNlQN49bRxqVVocLbDV6H+S9/tlFB/Alcu87XTJeit+MhWqeKrHgeL5v5T9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jaime\\OneDrive\\Área de Trabalho\\IT\\.net\\curso_api_netcore\\src\\Api.Application\\application.csproj",
+  "projectFilePath": "C:\\Users\\jaime\\Desktop\\IT\\.net\\curso_api_netcore\\src\\Api.Application\\application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

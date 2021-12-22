@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jaime\\OneDrive\\Área de Trabalho\\IT\\.net\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {}
+    "C:\\Users\\jaime\\Desktop\\IT\\.net\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jaime\\OneDrive\\Área de Trabalho\\IT\\.net\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
+    "C:\\Users\\jaime\\Desktop\\IT\\.net\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaime\\OneDrive\\Área de Trabalho\\IT\\.net\\curso_api_netcore\\src\\Api.Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\jaime\\Desktop\\IT\\.net\\curso_api_netcore\\src\\Api.Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\jaime\\OneDrive\\Área de Trabalho\\IT\\.net\\curso_api_netcore\\src\\Api.Data\\Data.csproj",
+        "projectPath": "C:\\Users\\jaime\\Desktop\\IT\\.net\\curso_api_netcore\\src\\Api.Data\\Data.csproj",
         "packagesPath": "C:\\Users\\jaime\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaime\\OneDrive\\Área de Trabalho\\IT\\.net\\curso_api_netcore\\src\\Api.Data\\obj\\",
+        "outputPath": "C:\\Users\\jaime\\Desktop\\IT\\.net\\curso_api_netcore\\src\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jaime\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,8 @@
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -36,6 +37,28 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
