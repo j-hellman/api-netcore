@@ -39,7 +39,7 @@ namespace Api.Service.Services
 
     public async Task<UserEntity> Put(UserEntity user)
     {
-        return await _repository.UpdateAsync(user);
+      return await _repository.UpdateAsync(user);
     }
   }
 }

@@ -116,5 +116,10 @@ namespace Api.Data.Repository
 
       return item;
     }
+
+    public Task<IEnumerable<UserEntity>> SelectAsync()
+    {
+      throw new NotImplementedException();
+    }
   }
 }
