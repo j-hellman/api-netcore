@@ -10,7 +10,6 @@ C:\Users\jaime\OneDrive\Área de Trabalho\IT\.net\curso_api_netcore\src\Api.Serv
 C:\Users\jaime\Desktop\IT\.net\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
 C:\Users\jaime\Desktop\IT\.net\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
 C:\Users\jaime\Desktop\IT\.net\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
-C:\Users\jaime\Desktop\IT\.net\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
 C:\Users\jaime\Desktop\IT\.net\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
 C:\Users\jaime\Desktop\IT\.net\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
 C:\Users\jaime\Desktop\IT\.net\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
@@ -23,3 +22,5 @@ C:\Users\jaime\Desktop\IT\.net\curso_api_netcore\src\Api.Service\bin\Debug\netco
 C:\Users\jaime\Desktop\IT\.net\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Data.pdb
 C:\Users\jaime\Desktop\IT\.net\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\CrossCutting.pdb
 C:\Users\jaime\Desktop\IT\.net\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\jaime\Desktop\IT\.net\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\Users\jaime\Desktop\IT\.net\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
