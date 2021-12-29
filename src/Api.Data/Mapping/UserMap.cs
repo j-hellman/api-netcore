@@ -4,24 +4,23 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace Api.Data.Mapping
 {
-  public class UserMap : IEntityTypeConfiguration<UserEntity>
-  {
-    public void Configure(EntityTypeBuilder<UserEntity> builder)
+    public class UserMap : IEntityTypeConfiguration<UserEntity>
     {
-        builder.ToTable("User"); //Informa o nome da tabela
+        public void Configure(EntityTypeBuilder<UserEntity> builder)
+        {
+            builder.ToTable("User");
 
-        builder.HasKey( u=> u.Id);  //Informa o ID
+            builder.HasKey(u => u.Id);
 
-        builder.HasIndex ( u=> u.Email)
-               .IsUnique();  //Informa que é campo único
+            builder.HasIndex(u => u.Email)
+                   .IsUnique();
 
-        builder.Property ( u=> u.Email)
-               .HasMaxLength(100);  //Informa o tamanho máximo
-        
-        builder.Property( u=> u.Name)
-               .IsRequired()  //Informa que é necessário
-               .HasMaxLength(60); 
+            builder.Property(u => u.Name)
+                   .IsRequired()
+                   .HasMaxLength(60);
 
+            builder.Property(u => u.Email)
+                   .HasMaxLength(100);
+        }
     }
-  }
 }
